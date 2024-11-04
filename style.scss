@@ -1,0 +1,6 @@
+$body-color: white;
+$body-bg:black;
+
+// komenda do kompilacji: npx sass style.scss style.css
+@import "./node_modules/bootstrap/scss/bootstrap";
+
